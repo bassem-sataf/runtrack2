@@ -1,0 +1,1 @@
+SELECT `id`, `prenom`, `nom`, `naissance`, `sexe`, `email` FROM `etudiants` WHERE naissance>'2003-11-10'
